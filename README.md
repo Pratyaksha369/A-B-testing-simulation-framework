@@ -61,7 +61,6 @@ ab-testing-simulation-framework
 ├── config.yaml      # Experiment configuration
 │
 ├── README.md
-├── requirements.txt
 └── .gitignore
 ```
 
