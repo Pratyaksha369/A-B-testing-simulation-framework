@@ -1,0 +1,9 @@
+experiment:
+  name: "New Checkout Button"
+  users: 5000
+  event_type: "purchase"   #main.py reads EVENT_TYPE from here
+
+metrics:
+  control_cvr: 0.032
+  treatment_cvr: 0.038
+  avg_order_value: 45.0
